@@ -4,7 +4,7 @@
 
 <!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat5604&label=Profile%20views&color=0e75b6&style=flat" alt="bharat5604" /> </p> -->
 
-<p align="left"> <a href="https://twitter.com/bharats_rajput" target="blank"><img src="https://img.shields.io/twitter/follow/bharats_rajput?logo=twitter&style=for-the-badge" alt="bharats_rajput" /></a> </p>
+<p align="left"> <a href="https://twitter.com/bharats_rajput" target="_blank"><img src="https://img.shields.io/twitter/follow/bharats_rajput?logo=twitter&style=for-the-badge" alt="bharats_rajput" /></a> </p>
 
 - 🌱 I’m currently learning **AWS, Kubernetes**
 
@@ -16,10 +16,10 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/bharats_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharats_rajput" height="30" width="40" /></a>
-<a href="https://linkedin.com/in/bharat-singh-192b03171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharat-singh-192b03171/" height="30" width="40" /></a>
-<a href="https://instagram.com/bharat_singh._rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharat_singh._rajput" height="30" width="40" /></a>
-<a href="https://www.youtube.com/@bharat_singh56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@bharat_singh56" height="30" width="40" /></a>
+<a href="https://twitter.com/bharats_rajput" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharats_rajput" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/bharat-singh-192b03171/" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharat-singh-192b03171/" height="30" width="40" /></a>
+<a href="https://instagram.com/bharat_singh._rajput" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharat_singh._rajput" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@bharat_singh56" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@bharat_singh56" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>

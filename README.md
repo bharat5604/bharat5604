@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **AWS, Kubernetes**
 
-- 👯 I’m looking to collaborate on **MERN open source projects**
+- 👯 I’m looking to collaborate on **MERN Based open source projects**
 
 - 💬 Ask me about **JAVASCRIPT, REACT, NEXT, NODE, MONGODB, REMIX.RUN**
 

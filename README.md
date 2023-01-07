@@ -28,6 +28,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bharatsi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bharatsi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharat5604&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="bharat5604" /></p>
+<!-- <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharat5604&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="bharat5604" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat5604&show_icons=true&theme=dark&hide_border=true&locale=en" alt="bharat5604" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat5604&show_icons=true&theme=dark&hide_border=true&locale=en" alt="bharat5604" /></p> -->

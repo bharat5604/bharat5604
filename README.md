@@ -1,9 +1,8 @@
 <h1 align="center">Hi 👋, I'm Bharat</h1>
 <h3 align="center">A passionate fullstack developer from India</h3>
+<img align="center" width="100%" src="./profile.png">
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat5604&label=Profile%20views&color=0e75b6&style=flat" alt="bharat5604" /> </p>
-
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=bharat5604" alt="bharat5604" /></a> </p>
+<!-- <p align="left"> <img src="https://komarev.com/ghpvc/?username=bharat5604&label=Profile%20views&color=0e75b6&style=flat" alt="bharat5604" /> </p> -->
 
 <p align="left"> <a href="https://twitter.com/bharats_rajput" target="blank"><img src="https://img.shields.io/twitter/follow/bharats_rajput?logo=twitter&style=for-the-badge" alt="bharats_rajput" /></a> </p>
 
@@ -20,7 +19,7 @@
 <a href="https://twitter.com/bharats_rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="bharats_rajput" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/bharat-singh-192b03171/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="bharat-singh-192b03171/" height="30" width="40" /></a>
 <a href="https://instagram.com/bharat_singh._rajput" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="bharat_singh._rajput" height="30" width="40" /></a>
-<a href="https://www.youtube.com/c/bharat_singh56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="bharat_singh56" height="30" width="40" /></a>
+<a href="https://www.youtube.com/@bharat_singh56" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="https://www.youtube.com/@bharat_singh56" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -29,11 +28,6 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/bharatsi"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="bharatsi" /></a></p><br><br>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharat5604&show_icons=true&locale=en&layout=compact" alt="bharat5604" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=bharat5604&show_icons=true&theme=dark&hide_border=true&locale=en&layout=compact" alt="bharat5604" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat5604&show_icons=true&locale=en" alt="bharat5604" /></p>
-
-<!---
-bharat5604/bharat5604 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=bharat5604&show_icons=true&theme=dark&hide_border=true&locale=en" alt="bharat5604" /></p>

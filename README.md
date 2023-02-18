@@ -6,11 +6,11 @@
 
 <p align="left"> <a href="https://twitter.com/bharats_rajput" target="_blank"><img src="https://img.shields.io/twitter/follow/bharats_rajput?logo=twitter&style=for-the-badge" alt="bharats_rajput" /></a> </p>
 
-- 🌱 I’m currently learning **AWS, Kubernetes**
+- 🌱 I’m currently learning **AWS**
 
 - 👯 I’m looking to collaborate on **MERN Based open source projects**
 
-- 💬 Ask me about **JAVASCRIPT, REACT, NEXT, NODE, MONGODB, REMIX.RUN**
+- 💬 Ask me about **JAVASCRIPT, REACT, NEXT, NODE, MONGODB, ASTRO, AWS, DOCKER**
 
 - 📫 How to reach me **bhushansingh696@gmail.com**
 

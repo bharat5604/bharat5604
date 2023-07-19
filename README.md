@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Bharat</h1>
+<h1 align="center">Hey 👋, I'm Bharat</h1>
 <h3 align="center">A passionate fullstack developer from 127.0.0.1</h3>
 <img align="center" width="100%" src="./profile.png">
 

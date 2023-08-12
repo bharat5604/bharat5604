@@ -10,7 +10,7 @@
 
 - 👯 I’m looking to collaborate on **MERN Based open source projects**
 
-- 💬 Ask me about **JAVASCRIPT, REACT, NEXT, REMIX, NODE, MONGODB, ASTRO, AWS, DOCKER**
+- 💬 Ask me about **JAVASCRIPT, REACT, NEXT, REMIX, NODE, MONGODB, ASTRO, AWS, DOCKER, QWIK**
 
 - 📫 How to reach me **bhushansingh696@gmail.com**
 

@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Premier Pro**
 
-- 👯 I’m looking to collaborate on **MERN Based open source projects**
+- 👯 I’m currently working on **MERN Based projects**
 
 - 💬 Ask me about **JAVASCRIPT, REACT, NEXT, REMIX, NODE, MONGODB, ASTRO, AWS, DOCKER, QWIK**
 

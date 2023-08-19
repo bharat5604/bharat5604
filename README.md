@@ -10,7 +10,7 @@
 
 - 👯 I’m currently working on **MERN Based projects**
 
-- 💬 Ask me about **JAVASCRIPT, REACT, NEXT, REMIX, NODE, MONGODB, ASTRO, AWS, DOCKER, QWIK**
+- 💬 Ask me about **JAVASCRIPT, REACT, NEXT, REMIX, NODE, MONGODB, ASTRO, DOCKER, QWIK**
 
 - 📫 How to reach me **bhushansingh696@gmail.com**
 

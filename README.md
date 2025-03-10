@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/bharats_rajput" target="_blank"><img src="https://img.shields.io/twitter/follow/bharats_rajput?logo=twitter&style=for-the-badge" alt="bharats_rajput" /></a> </p>
 
-- 🌱 I’m currently Studying **AWS solution architect**
+- 🌱 I’m currently Studying **Go**
 
 - 👯 I’m currently working on **MERN Based projects**
 
